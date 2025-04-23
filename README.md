@@ -1,0 +1,1 @@
+EcoTrack is a waste management app built with Next.js, TypeScript, TailwindCSS, and Gemini AI. It offers real-time waste tracking and smart insights. Powered by Drizzle for database management, EcoTrack is scalable, responsive, and designed for eco-conscious communities.
